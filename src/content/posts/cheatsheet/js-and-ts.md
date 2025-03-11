@@ -2,7 +2,7 @@
 title: JavaScript 和 TypeScript 的语法及使用区别
 published: 2025-03-11
 description: 'JavaScript 和 TypeScript 的语法及使用区别'
-image: '../../assets/images/js-vs-ts.png'
+image: './js-vs-ts.png'
 tags: [javascript, typescript, frontend]
 category: 'Cheatsheets'
 draft: false 

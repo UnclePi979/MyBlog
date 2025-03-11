@@ -2,7 +2,7 @@
 title: TypeScript Cheatsheet
 published: 2025-03-11
 description: 'A Cheatsheet for TypeScript'
-image: '../../assets/images/ts-logo-128.svg'
+image: './ts-logo-128.svg'
 tags: ['typescript', 'frontend']
 category: 'Cheatsheets'
 draft: false 
