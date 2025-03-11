@@ -3,8 +3,8 @@ title: TypeScript Cheatsheet
 published: 2025-03-11
 description: 'A Cheatsheet for TypeScript'
 image: './ts-logo-128.svg'
-tags: ['typescript', 'frontend']
-category: 'Cheatsheets'
+tags: ['typescript', '前端']
+category: '备忘录'
 draft: false 
 lang: ''
 ---

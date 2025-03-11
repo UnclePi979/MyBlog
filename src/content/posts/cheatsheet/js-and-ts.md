@@ -3,8 +3,8 @@ title: JavaScript 和 TypeScript 的语法及使用区别
 published: 2025-03-11
 description: 'JavaScript 和 TypeScript 的语法及使用区别'
 image: './js-vs-ts.png'
-tags: [javascript, typescript, frontend]
-category: 'Cheatsheets'
+tags: [javascript, typescript, 前端]
+category: '备忘录'
 draft: false 
 lang: ''
 ---
